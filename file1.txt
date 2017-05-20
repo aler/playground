@@ -1,1 +1,3 @@
 file1 sample line 1
+update sample line 2
+
